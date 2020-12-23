@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Список обновлений приложения
 
 You can use the [editor on GitHub](https://github.com/razo45/Dom/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
